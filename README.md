@@ -15,7 +15,7 @@
 | **Written On** | May 25, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/under-starlit-skies/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Under Starlit Skies](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/under-starlit-skies/) |
+| **Get License** | [Request Licensing for Under Starlit Skies](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/under-starlit-skies/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I can feel the heat from across the room
+> Like a midnight fire starting to bloom
+> Every time you look at me that way
+> There is nothing left for me to say
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
