@@ -15,7 +15,7 @@
 | **Written On** | May 25, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/under-starlit-skies/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Under Starlit Skies](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/under-starlit-skies/) |
+| **Get License** | [Get a Licensing Quote for Under Starlit Skies](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/under-starlit-skies/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `dbc31d36359b88992208478753ee74abf070b70459413a7718caac28f52d428e` |
 | **Timestamp** | May 25, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
